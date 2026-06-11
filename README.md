@@ -8,10 +8,10 @@ This is the source code for the LDCUO Index. The code is developed based on the 
 
 
 ## Usage 
-*./example_search {algName} {dataset} {k}*
+*./example_search {dataset} {k}*
 
 ```bash
-./example_search heds enron 20
+./example_search enron 20
 ```
 Conduct the 20-ANN Search on the dataset Enron. Please unzip the data in */enron* before using it.
 
